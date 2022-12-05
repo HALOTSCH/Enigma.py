@@ -22,6 +22,7 @@ walze_before        = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 # Einlegen der Walzen in die 3 Fächer
 # Gezählt von UKW zu Steckbrett
+#geenau
 walze_3_front   = walze_five_front
 walze_3_back    = walze_five_back
 walze_2_front   = walze_three_front
